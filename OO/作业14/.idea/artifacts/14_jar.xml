@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="作业14:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/14_jar</output-path>
+    <root id="archive" name="作业14.jar">
+      <element id="module-output" name="作业14" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../homework_14/U4T2/U4T2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

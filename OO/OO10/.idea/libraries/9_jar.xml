@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="9_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/作业10/out/artifacts/9_jar/作业9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/作业10/out/artifacts/9_jar/code.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

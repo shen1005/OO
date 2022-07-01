@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EXP2_2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EXP2_2_jar</output-path>
+    <root id="archive" name="EXP2_2.jar">
+      <element id="module-output" name="EXP2_2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../EXP2/src/timable-output.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
